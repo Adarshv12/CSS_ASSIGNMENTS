@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+}
+.row1{
+    display: flex;
+    justify-content: content;
+}
+.cell{
+    width: 250px;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 30px solid aqua;
+    font-size: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
