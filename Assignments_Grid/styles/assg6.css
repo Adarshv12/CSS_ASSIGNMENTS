@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    width: 350px;
+    height: 450px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.bimg{
+    width: 100%;
+    height: 50%;
+    background: url("images/images.jfif");
+    background-position: center;
+}
+.btn{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn1{
+    width: 250px;
+    height: 35px;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgb(50, 207, 33);
+    border: none;
+}
