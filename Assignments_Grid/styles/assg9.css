@@ -1,0 +1,35 @@
+body{
+    background-image: url("images/car2.jpg");
+    background-size: 1366px;
+}
+.navbar-brand{
+    width: 15vw;
+    height: 10vh;
+    padding: 10px;
+    margin-right: 100px;
+}
+.nav-link{
+    color: rgba(0, 0, 0, 0.557);
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.nav a{
+    font-weight: bold;
+    color: black;
+}
+.container a{
+    color: black;
+}
+.btn-dark{
+    border-radius: 0px;
+    background-color: black;
+}
+.btn-light{
+    border-radius: 0px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-weight: bold;
+}
+.col-lg-12{
+    padding-bottom: 30px;
+}

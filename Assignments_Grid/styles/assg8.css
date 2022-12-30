@@ -1,0 +1,146 @@
+body{
+    margin: 0;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+.tiger{
+    height: 140px;
+    background-color: rgb(113, 3, 3);
+    width: 180px;
+    border-radius: 30px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 90px;
+    margin-top: 90px;
+}
+.yak{
+    height: 140px;
+    background-color: rgb(113, 3, 3);
+    width: 180px;
+    border-radius: 30px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -300px;
+    margin-left: 400px;
+}
+.fox{
+    height: 140px;
+    background-color: rgb(113, 3, 3);
+    width: 180px;
+    border-radius: 30px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 480px;
+    margin-top: 70px;
+}
+.lion{
+    height: 140px;
+    background-color: rgb(113, 3, 3);
+    width: 180px;
+    border-radius: 30px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.giraffe{
+    height: 140px;
+    background-color: rgb(113, 3, 3);
+    width: 200px;
+    border-radius: 30px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -180px;
+    margin-left: 260px;
+}
+.leopard{
+    height: 140px;
+    background-color: rgb(113, 3, 3);
+    width: 200px;
+    border-radius: 30px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 600px;
+    margin-top: -60px;
+}
+.iguana{
+    height: 140px;
+    background-color: rgb(113, 3, 3);
+    width: 200px;
+    border-radius: 30px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 900px;
+    margin-top: -250px;
+}
+.elephant{
+    height: 140px;
+    background-color: rgb(113, 3, 3);
+    width: 200px;
+    border-radius: 30px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 910px;
+    margin-top: -350px;
+}
+.rhino{
+    height: 140px;
+    background-color: rgb(113, 3, 3);
+    width: 300px;
+    border-radius: 30px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1000px;
+    margin-top: -300px;
+}
+.tiger1{
+    height: 140px;
+    background-color: rgb(113, 3, 3);
+    width: 200px;
+    border-radius: 30px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
